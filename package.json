@@ -12,7 +12,10 @@
     "express": "~4.11.x",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
-    "parse-server": "*"
+    "parse-server": "*",
+    "socket.io": "^1.7.2",
+    "json-socket": "^0.2.1",
+    "cors": "*"
   },
   "scripts": {
     "start": "node index.js"
